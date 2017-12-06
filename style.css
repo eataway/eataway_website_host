@@ -137,7 +137,7 @@ img{max-width: 100%}
     position: relative;
 }
 .search-inside a.search-close:hover,.searchbar-inner .search button:hover {
-  color: #e54c2a;
+  color: #14B592;
 }
 .searchbar-inner .search button {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
@@ -194,7 +194,7 @@ img{max-width: 100%}
   margin-left: 20px;
 }
 .nivo-controlNav a.active {
-  color: #e54c2a;
+  color: #14B592;
   font-size: 24px;
 }
 
@@ -207,7 +207,7 @@ img{max-width: 100%}
     font-size: 15px;
 }
 .social-media-follow li a:hover {
-    color: #e54c2a;
+    color: #14B592;
 }
 .social-media-follow > p {
   display: inline-block;
@@ -228,7 +228,7 @@ img{max-width: 100%}
     position: relative;
 }
 .social-box-inner:before {
-    background: #e54c2a none repeat scroll 0 0;
+    background: #14B592 none repeat scroll 0 0;
     bottom: -37px;
     content: "";
     height: 45px;
@@ -254,7 +254,7 @@ img{max-width: 100%}
   padding: 0;
 }
 .middle-text .order-now a {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-weight: 600;
@@ -269,7 +269,7 @@ img{max-width: 100%}
   margin-top: 30px;
 }
 .slide3-text .middle-text .title-1 h2,.slide3-text .middle-text .title-2 h1 {
-  color: #e54c2a;
+  color: #14B592;
 }
 .slide3-text {
   margin-right: 50px;
@@ -295,7 +295,7 @@ img{max-width: 100%}
   margin-top: 22px;
 }
 .welcome-about .read-more > a {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-weight: 600;
@@ -337,7 +337,7 @@ img{max-width: 100%}
   margin-bottom: 0;
 }
 .section-title h2:before {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   bottom: -20px;
   content: "";
   height: 1px;
@@ -371,7 +371,7 @@ img{max-width: 100%}
   text-transform: capitalize;
 }
 .disesh-desc p.price {
-  color: #e54c2a;
+  color: #14B592;
   font-size: 22px;
   font-weight: bold;
 }
@@ -383,7 +383,7 @@ img{max-width: 100%}
 }
 .slick-dots li.slick-active a {
   font-size: 24px;
-  color: #e54c2a
+  color: #14B592
 }
 /*----------------------
 	6. Food menu Css here
@@ -427,7 +427,7 @@ img{max-width: 100%}
   text-transform: uppercase;
 }
 .foode-item-box ul li.active a {
-  color: #e54c2a;
+  color: #14B592;
 }
 .foode-item-box ul li.active a:focus{background: none}
 .food-img {
@@ -470,7 +470,7 @@ img{max-width: 100%}
   margin: 0;
 }
 .single-food-price > p {
-  color: #e54c2a;
+  color: #14B592;
   font-size: 24px;
   font-weight: 600;
 }
@@ -496,7 +496,7 @@ img{max-width: 100%}
     text-transform: uppercase;
 }
 .gallery-menu ul li.active {
-    color: #e54c2a;
+    color: #14B592;
 }
 .single-item-gallery {
     position: relative;
@@ -520,7 +520,7 @@ img{max-width: 100%}
 .single-item-gallery a {
   background: #fff none repeat scroll 0 0;
   border-radius: 50%;
-  color: #e54c2a;
+  color: #14B592;
   font-size: 22px;
   height: 40px;
   left: 0;
@@ -612,7 +612,7 @@ h3.reserv-title {
   color: #aaa;
 }
 .reserve-submit button {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   display: inline-block;
@@ -643,9 +643,9 @@ h3.reserv-title {
   width: 100%;
 }
 .blog-hover > a {
-  border: 4px solid #e54c2a;
+  border: 4px solid #14B592;
   border-radius: 50%;
-  color: #e54c2a;
+  color: #14B592;
   display: inline-block;
   font-size: 18px;
   height: 40px;
@@ -657,7 +657,7 @@ h3.reserv-title {
   width: 40px;
 }
 .blog-title > h3 {
-  color: #e54c2a;
+  color: #14B592;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -672,7 +672,7 @@ h3.reserv-title {
   padding: 23px 0;
 }
 .publish-date {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   float: left;
   padding: 15px 0;
   width: 60px;
@@ -785,14 +785,14 @@ h3.reserv-title {
   width: 100%;
 }
 p.text-qoute i {
-    color: #e54c2a;
+    color: #14B592;
     font-size: 30px;
 }
 p.test-text {
     font-style: italic;
 }
 .test-title h4 {
-  color: #e54c2a;
+  color: #14B592;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 0;
@@ -807,7 +807,7 @@ p.test-text {
     font-weight: 600;
 }
 .testimonial-sliders .slick-dots li.slick-active a {
-    color: #e54c2a;
+    color: #14B592;
     font-size: 24px;
 }
 .testimonial-sliders .slick-dots {
@@ -909,7 +909,7 @@ h3.single-footer-title {
     margin: 0;
 }
 .offer-inner .order-now > a {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -932,7 +932,7 @@ h3.single-footer-title {
 }
 
 .copyright {
-    background: none repeat scroll 0 0 #e54c2a;
+    background: none repeat scroll 0 0 #14B592;
 }
 .copyright p {
     color: #fff;
@@ -953,7 +953,7 @@ h3.single-footer-title {
     font-weight: 600;
 }
 .newsletter-form button {
-    background: none repeat scroll 0 0 #e54c2a;
+    background: none repeat scroll 0 0 #14B592;
     border: medium none;
     color: #fff;
     display: inline-block;
@@ -976,7 +976,7 @@ h3.single-footer-title {
     14. Scrollup css here
 -------------------------------*/
 #scrollUp {
-    background: #e54c2a;
+    background: #14B592;
     bottom: 45px;
     color: #ffffff;
     cursor: pointer;
@@ -1020,7 +1020,7 @@ h3.breadcrubs-title {
     text-transform: capitalize;
 }
 .breadcurbs-inner ul li {
-    color: #e54c2a;
+    color: #14B592;
     display: inline-block;
     text-transform: uppercase;
 }
@@ -1031,7 +1031,7 @@ h3.breadcrubs-title {
     margin: 0 10px;
 }
 .breadcurbs-inner li a:hover {
-    color: #e54c2a;
+    color: #14B592;
 }
 /*---------------------
     16. Resta about css here
@@ -1069,7 +1069,7 @@ h3.breadcrubs-title {
     position: relative;
 }
 .viedo--play {
-    background: #e54c2a none repeat scroll 0 0;
+    background: #14B592 none repeat scroll 0 0;
     height: 100%;
     position: absolute;
     right: 0;
@@ -1196,7 +1196,7 @@ h2.counter {
 }
 .member-overlay i:hover {
    background: #fff;
-   color: #e54c2a
+   color: #14B592
 }
 .socail-icon {
   bottom: 0;
@@ -1229,7 +1229,7 @@ h2.counter {
 .socail-icon a:hover {
   border-color: #fff;
   background: #fff;
-  color: #e54c2a
+  color: #14B592
 }
 .member-content {
   padding: 22px;
@@ -1293,7 +1293,7 @@ h2.counter {
     margin: 0;
 }
 .food_item_box ul li.active a {
-  color: #e54c2a;
+  color: #14B592;
 }
 .food_item_box {
    height: 170px;
@@ -1303,7 +1303,7 @@ h2.counter {
 }
 .load-more > a {
   border: 1px solid #f1f1f1;
-  color: #e54c2a;
+  color: #14B592;
   display: block;
   font-size: 16px;
   font-weight: 700;
@@ -1311,7 +1311,7 @@ h2.counter {
   text-transform: capitalize;
 }
 .load-more > a:hover {
-    background: #e54c2a none repeat scroll 0 0;
+    background: #14B592 none repeat scroll 0 0;
     color: #fff;
 }
 .item2 .food_item_box {
@@ -1366,7 +1366,7 @@ h2.counter {
            transform: scaleY(1); 
 }
 .single-gallery-hover > span {
-    color: #e54c2a;
+    color: #14B592;
     font-size: 40px;
     line-height: 100px;
 }
@@ -1454,7 +1454,7 @@ h2.counter {
     margin-right: 0;
 }
 .blog-share-social a:hover,.cheaf-quote-social > a:hover {
-    color: #e54c2a;
+    color: #14B592;
 }
 .cheaf-quote-img {
     float: left;
@@ -1475,14 +1475,14 @@ h2.counter {
     font-weight: 600;
 }
 .cheaf-quote-text > p i {
-    color: #e54c2a;
+    color: #14B592;
     margin: 0 2px;
 }
 .cheaf-quote-action {
     position: relative;
 }
 .cheaf-quote-title h5 {
-    color: #e54c2a;
+    color: #14B592;
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 0;
@@ -1498,7 +1498,7 @@ h2.counter {
   margin-bottom: 47px;
   text-transform: uppercase;
 }
-.comment-action-box a:hover i{color: #e54c2a}
+.comment-action-box a:hover i{color: #14B592}
 .comment-action-box > a {
   font-family: "Lato",sans-serif;
 }
@@ -1567,7 +1567,7 @@ h2.counter {
   margin-bottom: 25px;
 }
 .blog-comment-form .submit > button {
-    background: #e54c2a none repeat scroll 0 0;
+    background: #14B592 none repeat scroll 0 0;
     border: medium none;
     color: #fff;
     font-size: 14px;
@@ -1593,7 +1593,7 @@ h2.counter {
 .widget .widget-search button {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   border: medium none;
-  color: #e54c2a;
+  color: #14B592;
   font-size: 18px;
   padding: 0;
   position: absolute;
@@ -1612,7 +1612,7 @@ h2.counter {
     padding: 0;
 }
 .widget-title > h3 {
-  color: #e54c2a;
+  color: #14B592;
   font-family: "Great Vibes",cursive;
   font-size: 20px;
   margin-bottom: 18px;
@@ -1638,7 +1638,7 @@ h2.counter {
     margin-bottom: 5px;
 }
 .widget-categories h6.open a,.widget-categories a:hover {
-    color: #e54c2a;
+    color: #14B592;
 }
 
 .recent-post-thumbnail {
@@ -1687,9 +1687,9 @@ h2.counter {
     width: 100%;
 }
 .widget-video-overlay > a {
-  border: 5px solid #e54c2a;
+  border: 5px solid #14B592;
   border-radius: 50%;
-  color: #e54c2a;
+  color: #14B592;
   display: inline-block;
   font-size: 22px;
   height: 42px;
@@ -1707,7 +1707,7 @@ h2.counter {
   display: inline-block;
 }
 .widget-tag li a:hover {
-  border-color: #e54c2a;
+  border-color: #14B592;
 }
 .widget-tag li a {
   color: #757575;
@@ -1797,7 +1797,7 @@ h2.counter {
     resize: none;
 }
 .contact-form-box button {
-    background: #e54c2a none repeat scroll 0 0;
+    background: #14B592 none repeat scroll 0 0;
     border: medium none;
     color: #fff;
     font-size: 16px;
@@ -1838,7 +1838,7 @@ h2.counter {
     24.1 Dropdown menu css here
 -------------------------*/
 .menu ul li:hover a,.menu ul li:hover ul li a:hover{
-  color: #e54c2a
+  color: #14B592
 }
 .menu ul li:hover ul li a{
   color: #535353
@@ -1849,8 +1849,8 @@ h2.counter {
   width: 200px;
 }
 .menu ul li ul.dropdown_menu, .menu ul li ul.dropdown_menu li ul.dropdown-submenu {
-  border-bottom: 2px solid #e54c2a;
-  border-top: 2px solid #e54c2a;
+  border-bottom: 2px solid #14B592;
+  border-top: 2px solid #14B592;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -1915,8 +1915,8 @@ h2.counter {
 -------------------------*/
 .menu ul li ul.mgea-menu {
   background: #fff;
-  border-bottom: 2px solid #e54c2a;
-  border-top: 2px solid #e54c2a;
+  border-bottom: 2px solid #14B592;
+  border-top: 2px solid #14B592;
   left: 0;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -1982,7 +1982,7 @@ h2.counter {
     25. 404 page css here
 -------------------------*/
 .error-content h2 {
-  color: #e54c2a;
+  color: #14B592;
   font-family: "Lato",sans-serif;
   font-size: 180px;
   font-weight: bold;
@@ -2002,7 +2002,7 @@ h2.counter {
     text-transform: capitalize;
 }
 .error-content .go-home {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-weight: bold;
@@ -2074,7 +2074,7 @@ h2.counter {
   margin-top: 10px;
 }
 .middle-text .title-2 h1 span {
-  color: #e54c2a;
+  color: #14B592;
 }
 /*--------------------------
     29. Home three css here
@@ -2141,11 +2141,11 @@ h2.counter {
     transition: all 0.3s ease 0s;
 }
 .accordion-active h4.open:before {
-    color: #e54c2a;
+    color: #14B592;
     content: "";
 }
 .accordion-active h4:hover:before,.accordion-active h4.open {
-    color: #e54c2a;
+    color: #14B592;
 }
 .accordion-active h4 a:focus {
   color: inherit;
@@ -2160,7 +2160,7 @@ h2.counter {
 .elements .nav-tabs > li.active > a {
   border-radius: 0;
   border-top: 1px solid transparent;
-  color: #e54c2a;
+  color: #14B592;
 }
 .elements .nav.nav-tabs {
   border: 1px solid #ddd;
@@ -2248,7 +2248,7 @@ h2.counter {
     31.4 Button css
 ---------------------------------*/
 a.button {
-  background: #e54c2a none repeat scroll 0 0;
+  background: #14B592 none repeat scroll 0 0;
   border-radius: 3px;
   color: #fff;
   display: inline-block;
@@ -2301,10 +2301,10 @@ a.button.button-black:hover{
 }
 a.button.button-white,a.button:hover{
   background: #fff;
-  color: #e54c2a
+  color: #14B592
 }
 a.button.button-white:hover,a.button.border_radius.button-black:hover{
-  background: #e54c2a;
+  background: #14B592;
   color: #fff
 }
 a.button.border-radius {
@@ -2326,7 +2326,7 @@ a.button.btn-border {
     border: 2px solid;
     color: #4a4a4a;
 }
-a.button.btn-gray:hover,a.button.btn-border:hover{color:#e54c2a}
+a.button.btn-gray:hover,a.button.btn-border:hover{color:#14B592}
 /*-------------------
 	32. Preloader CSS here
 ----------------------*/
@@ -2357,7 +2357,7 @@ a.button.btn-gray:hover,a.button.btn-border:hover{color:#e54c2a}
 .object{
   width: 20px;
   height: 20px;
-  background-color: #e54c2a ;
+  background-color: #14B592 ;
   float: left;
   margin-right: 20px;
   margin-top: 65px;
