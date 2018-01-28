@@ -244,13 +244,13 @@ img{max-width: 100%}
   text-transform: capitalize;
 }
 .middle-text .title-2 h1 {
-  color: #535353;
+  color: #ffffff;
   font-size: 50px;
   font-weight: bold;
   text-transform: uppercase;
 }
 .middle-text p {
-  color: #757575;
+  color: #ffffff;
   padding: 0;
 }
 .middle-text .order-now a {
@@ -313,7 +313,7 @@ img{max-width: 100%}
   background:  url("images/dish/bg-2.png") no-repeat scroll right top;
 }
 .popular-dishes {
-  background: #f1f1f1 url("images/dish/bg-1.png") no-repeat scroll left bottom;
+  background: #baeabae3 url("images/dish/bg-1.png") no-repeat scroll left bottom;
 }
 .single-disesh {
   background: #fff none repeat scroll 0 0;
